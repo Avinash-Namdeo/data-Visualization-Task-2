@@ -1,5 +1,7 @@
 USA Car Sales Dashboard
+
 📊 Overview
+
 This Power BI dashboard presents a comprehensive analysis of car sales data across the United States. It aims to provide key insights into sales performance by brand, model, state, and time period, helping stakeholders make data-driven decisions.
 
 📁 Dataset
