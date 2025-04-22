@@ -37,10 +37,3 @@ Use filters and slicers to interact with the data.
 Which car brands and models are the top performers?
 
 What trends exist in car sales over time?
-
-✅ Future Enhancements
-Include predictive analytics using time series forecasting.
-
-Add customer demographic data for deeper insights.
-
-Integrate external datasets for market benchmarking.
